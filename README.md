@@ -1,5 +1,6 @@
-<img src="https://img.freepik.com/free-icon/apple_318-565853.jpg?t=st=1692049883~exp=1692050483~hmac=c54e4bf2ec1fe8d7f96c1b36af87befbd9511bf49b18d126bae61c6d790994b8" alt="Trulli" width="500" height="333">
-<h1>Apple Customer Service</h1>
+<div class="container">
+<img src="Apple.JPEG" style="widht:200px;height:100px;"></img>
+    <h1>Apple Customer Service</h1>
 	<h2>Solve Your Query Now</h2>
     <p>Welcome to Apple customer service. How can we assist you today?</p>
     
@@ -15,3 +16,5 @@
 	<li>Manage Returns,Missing Items and refunds for sellers and all</li>
 		
 </ol>
+
+    
