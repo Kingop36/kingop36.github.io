@@ -5,8 +5,7 @@
     <p>Welcome to Apple customer service. How can we assist you today?</p>
     
 <a href="tel:+1-888-235-9986">    <button class="button">Call Now</button></a><br>
-<a href="tel:+1-888-235-9986">    <button class="button">+1-888-235-9986</button></a>
-    </center>
+<a href="tel:+1-888-235-9986">    <button class="button">+1-888-235-9986</button></a></center>
 	<ol>
 	<li>Return an item for a refund</li>
 	<li>Get help with an Item that hasn't Received</li>
